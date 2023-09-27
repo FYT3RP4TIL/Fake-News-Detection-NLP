@@ -24,6 +24,7 @@ The topic of fake news detection on social media has recently attracted tremendo
  * numpy
  * tensorflow
  * pandas
+ * sklearn
  * nltk
    * For nltk, run these commands in your notebook --  
        * `>>> import nltk`
@@ -31,14 +32,14 @@ The topic of fake news detection on social media has recently attracted tremendo
 
 ## Methodologies Used
 
- * Tokenization
- * Stemming
- * Stopword Removal
- * Splitting Data
- * Vectorization
+ * [Tokenization](https://www.geeksforgeeks.org/nlp-how-tokenizing-text-sentence-words-works/)
+ * [Stemming](https://www.geeksforgeeks.org/introduction-to-stemming/)
+ * [Stopword Removal](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/)
+ * [Splitting Data](https://www.geeksforgeeks.org/how-to-split-a-dataset-into-train-and-test-sets-using-python/)
+ * [Vectorization](https://www.geeksforgeeks.org/feature-extraction-techniques-nlp/)
 
 ## Model Used 
 
- * Logestic Regression
- * Passive Agressive Classifier
+ * [Logestic Regression](https://www.geeksforgeeks.org/understanding-logistic-regression/)
+ * [Passive Agressive Classifier](https://www.geeksforgeeks.org/passive-aggressive-classifiers/)
     
